@@ -4,7 +4,6 @@
 package my.project.first;
 
 /**
- * @author F99200B
  *
  */
 public class Main {
